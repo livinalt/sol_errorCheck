@@ -1,7 +1,7 @@
 # Error Challenge 
 
 ## Overview
-This Solidity smart contract, named ErrorChallenge, is designed to illustrate basic error handling techniques using `assert`, `revert`, and `require`. The contract includes functions for transferring tokens between addresses, depositing tokens, and simulating a token swap.
+This Solidity smart contract, named ErrorChallenge, is designed to illustrate basic error handling techniques using `assert()`, `revert()`, and `require()`. The contract includes functions for transferring tokens between addresses, depositing tokens, and simulating a token swap.
 
 ## Functions
 
